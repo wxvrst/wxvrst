@@ -6,5 +6,5 @@
 
 ## There is some of my projects
 
-- https://wxvrst.github.io/Cookies/
+- https://wxvrst.github.io/cookies/
 - https://wxvrst.github.io/WebDevelopmentProject/
