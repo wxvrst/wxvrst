@@ -12,4 +12,4 @@
 - https://wxvrst.github.io/keyboardIdea/
 - https://wxvrst.github.io/form/
 - Vue Projects:
-- - https://wxvrst.github.io/vueWeather/
+  - https://wxvrst.github.io/vueWeather/
