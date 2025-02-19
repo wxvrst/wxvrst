@@ -12,6 +12,8 @@ VanillaJS Projects:
   - https://wxvrst.github.io/Lemon/
   - https://wxvrst.github.io/keyboardIdea/
   - https://wxvrst.github.io/form/
+  - https://wxvrst.github.io/To-Do-list/
+  - https://wxvrst.github.io/canvasFun/
 
 Vue.js Projects:
   - https://wxvrst.github.io/vueWeather/
