@@ -17,5 +17,4 @@ VanillaJS Projects:
   - https://wxvrst.github.io/canvasFun/
 
 Vue.js Projects:
-  - https://wxvrst.github.io/vueWeather/
   - https://wxvrst.github.io/vueCrypto/
