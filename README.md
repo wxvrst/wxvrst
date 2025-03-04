@@ -15,6 +15,7 @@ VanillaJS Projects:
   - https://wxvrst.github.io/form/
   - https://wxvrst.github.io/To-Do-list/
   - https://wxvrst.github.io/canvasFun/
+  - https://wxvrst.github.io/canvasSnake/
 
 Vue.js Projects:
   - https://wxvrst.github.io/vueCrypto/
