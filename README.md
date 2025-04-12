@@ -23,4 +23,4 @@ Vue.js Projects:
   - https://wxvrst.github.io/vueWeather/
 
 React Projects:
-  - Soon
+  - https://wxvrst.github.io/reactStore/
