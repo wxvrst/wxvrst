@@ -24,4 +24,4 @@ Vue.js Projects:
 
 React Projects:
   - https://wxvrst.github.io/reactStore/
-  - https://wxvrst.github.io/chocolate-soul/
+  - https://wxvrst.github.io/chocolatesoul/
