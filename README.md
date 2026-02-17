@@ -21,6 +21,7 @@ AngularJS Projects:
 Vue.js Projects:
   - https://wxvrst.github.io/vueCrypto/
   - https://wxvrst.github.io/vueWeather/
+  - https://wxvrst.github.io/vueShop/shop
 
 React Projects:
   - https://wxvrst.github.io/reactStore/
