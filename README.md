@@ -2,9 +2,9 @@
 ## My name is Ivan, I'm a beginner frontend developer.
 
 - 🔭 I'm currently working on my portfolio
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Vue and React
 
-## There is some of my projects
+## There are some of my projects:
 
 VanillaJS Projects:
   - https://wxvrst.github.io/WebDevelopmentProject/
