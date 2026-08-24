@@ -7,11 +7,12 @@
 ## There are some of my projects:
  
 Vue.js Projects:
+  - https://wxvrst.github.io/vueShop/
   - https://wxvrst.github.io/vueCrypto/
   - https://wxvrst.github.io/vueWeather/
-  - https://wxvrst.github.io/vueShop/
 
 React Projects:
+  - https://wxvrst.github.io/todoApp/
   - https://wxvrst.github.io/reactStore/
   - https://wxvrst.github.io/chocolate-soul/
   - https://wxvrst.github.io/test/
