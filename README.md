@@ -1,8 +1,5 @@
 ## Hi there 👋
-## My name is Ivan, I'm a beginner frontend developer.
-
-- 🔭 I'm currently working on my portfolio
-- 🌱 I’m currently learning Vue and React
+## My name is Ivan, I'm a frontend developer.
 
 ## There are some of my projects:
  
