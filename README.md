@@ -1,25 +1,21 @@
 ## Hi there 👋
 ## My name is Ivan, I'm a frontend developer.
-https://
 ## There are some of my projects:
  
-| Vue.js Projects:                     | React Projects:                  
-| ------------------------------------ | ---------------------------------------- |
-| https://wxvrst.github.io/vueShop/    | https://wxvrst.github.io/todoApp/        |
-| https://wxvrst.github.io/vueCrypto/  | https://wxvrst.github.io/reactStore/     | 
-| https://wxvrst.github.io/vueWeather/ | https://wxvrst.github.io/chocolate-soul/ |
-|                                      | https://wxvrst.github.io/test/           | 
-|                                      | https://wxvrst.github.io/reactShop/      |
-|                                      |                                          |
-|                                      |                                          | 
+|Vue.js Projects:|React Projects:|AngularJS Projects:|VanillaJS Projects:|
+| -| - | - | - |
+|[Vue Shop](https://wxvrst.github.io/vueShop/)|[React Todo App](https://wxvrst.github.io/todoApp/)|[Cookies](https://wxvrst.github.io/cookies/ )|[Web Project](https://wxvrst.github.io/WebProject/)||[Lemon](https://wxvrst.github.io/Lemon/)|
+|[Vue Crypto](https://wxvrst.github.io/vueCrypto/)|[React Store](https://wxvrst.github.io/reactStore/)||[Keyboard](https://wxvrst.github.io/keyboardIdea/)| 
+|[Vue Weather](https://wxvrst.github.io/vueWeather/)|[Cholocate Soul](https://wxvrst.github.io/chocolate-soul/)||[Form](https://wxvrst.github.io/form/)|
+||[Test ReactBitz](https://wxvrst.github.io/test/)||[Todo App](https://wxvrst.github.io/To-Do-list/)| 
+||[React Shop](https://wxvrst.github.io/reactShop/ )||[Canvas Fun](https://wxvrst.github.io/canvasFun/)|
+||||[Snake](https://wxvrst.github.io/canvasSnake/)|
 
-| AngularJS Projects:                  | VanillaJS Projects:                      |
-| ------------------------------------ | ---------------------------------------- |
-| https://wxvrst.github.io/cookies/    | https://wxvrst.github.io/WebProject/     |
-|                                      | https://wxvrst.github.io/Lemon/          |
-|                                      | https://wxvrst.github.io/keyboardIdea/   |
-|                                      | https://wxvrst.github.io/form/           |
-|                                      | https://wxvrst.github.io/To-Do-list/     |
-|                                      | https://wxvrst.github.io/To-Do-list/     |
-|                                      | https://wxvrst.github.io/canvasFun/      |
-|                                      | https://wxvrst.github.io/canvasSnake/    |
+
+
+
+
+
+
+
+
