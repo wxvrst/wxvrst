@@ -3,26 +3,12 @@
 
 ## There are some of my projects:
  
-Vue.js Projects:
-  - https://wxvrst.github.io/vueShop/
-  - https://wxvrst.github.io/vueCrypto/
-  - https://wxvrst.github.io/vueWeather/
-
-React Projects:
-  - https://wxvrst.github.io/todoApp/
-  - https://wxvrst.github.io/reactStore/
-  - https://wxvrst.github.io/chocolate-soul/
-  - https://wxvrst.github.io/test/
-  - https://wxvrst.github.io/reactShop/
-
-AngularJS Projects:
-  - https://wxvrst.github.io/cookies/
-
-VanillaJS Projects:
-  - https://wxvrst.github.io/WebDevelopmentProject/
-  - https://wxvrst.github.io/Lemon/
-  - https://wxvrst.github.io/keyboardIdea/
-  - https://wxvrst.github.io/form/
-  - https://wxvrst.github.io/To-Do-list/
-  - https://wxvrst.github.io/canvasFun/
-  - https://wxvrst.github.io/canvasSnake/
+| Vue.js Projects:              | React Projects:                    | AngularJS Projects:        | VanillaJS Projects:                      |
+| ----------------------------- | ---------------------------------- | ---------------------------|----------------------------------------- |
+| wxvrst.github.io/vueShop/     | wxvrst.github.io/todoApp/          | wxvrst.github.io/cookies/  | wxvrst.github.io/WebDevelopmentProject/  |
+| wxvrst.github.io/vueCrypto/   | wxvrst.github.io/reactStore/       |                            | wxvrst.github.io/Lemon/                  |
+| wxvrst.github.io/vueWeather/  | wxvrst.github.io/chocolate-soul/   |                            | wxvrst.github.io/keyboardIdea/           |
+|                               | wxvrst.github.io/test/             |                            | wxvrst.github.io/form/                   |
+|                               | wxvrst.github.io/reactShop/        |                            | wxvrst.github.io/To-Do-list/             |
+|                               |                                    |                            | wxvrst.github.io/canvasFun/              |
+|                               |                                    |                            | wxvrst.github.io/canvasSnake/            |
